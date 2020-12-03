@@ -1,6 +1,6 @@
 # Contactar Feature Selection
 
-This repository contains the datasets and scripts needed to obtain the results provided on the paper "Feature Selection for Proximity Estimation in COVID-19 Contact Tracing Appsbased on Bluetooth Low Energy (BLE)" presented in "Pervasive and Mobile Computing" journal in the Special Issue on IoT for Fighting COVID-19.
+This repository contains the datasets and scripts needed to obtain the results provided on paper "Feature Selection for Proximity Estimation in COVID-19 Contact Tracing Apps based on Bluetooth Low Energy (BLE)" presented in "Pervasive and Mobile Computing" journal in the Special Issue on IoT for Fighting COVID-19.
 
 ## Execution
 
